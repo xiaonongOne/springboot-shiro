@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+</head>
+<body>
+
+<div th:text="'欢迎你'+${session.login.username}"></div>
+<a th:href="@{/logout}">退出登录</a>
+</body>
+</html>
