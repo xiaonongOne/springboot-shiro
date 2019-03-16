@@ -35,7 +35,6 @@ public class UserInfoServiceImpl implements UserInfoService {
         String[] saltAndCiphertext = UserRegisteAndLogin.encryptPassword(userInfo.getUsername(),password);
         userInfo.setSalt(saltAndCiphertext[0]);
         userInfo.setPassword(saltAndCiphertext[1]);
-        userInfo.setUid(2);
         userInfoDao.save(userInfo);
     }
 

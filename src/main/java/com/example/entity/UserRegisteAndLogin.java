@@ -12,7 +12,7 @@ public class UserRegisteAndLogin
      * 用户注册时加密用户的密码
      * 输入密码明文 返回密文与盐值
      * @param password
-     * @return 第一个是密文  第二个是盐值
+     * @return 第一个是密文  第二个是密码盐值
      */
     public static String[] encryptPassword(String username,String password)
     {
