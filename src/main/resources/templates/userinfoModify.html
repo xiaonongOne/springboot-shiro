@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>用户修改信息界面</title>
+</head>
+<body>
+<form action="/userInfo/userModify" method="post">
+    <input type="hidden" name="uid" th:value="${user.uid}" />
+    <p>昵称：<input type="text" name="name"      th:value="${user.name}" /></p>
+    <p>账号：<input type="text" name="username"  th:value="${user.username}"  /></p>
+    <p>密码：<input type="text" name="password"  /></p>
+    <p><input type="submit" value="保存"/></p>
+</form>
+</body>
+</html>
