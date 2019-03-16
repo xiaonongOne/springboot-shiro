@@ -18,7 +18,7 @@ import java.util.Properties;
  * @Package: com.example.config
  * @ClassName: ShiroConfig
  * @Description:
- * @Author: Ni Shichao
+ * @Author: Xiao nong
  * @Version: 1.0
  */
 @Configuration

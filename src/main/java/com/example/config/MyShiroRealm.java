@@ -19,7 +19,7 @@ import javax.annotation.Resource;
  * @Package: com.example.config
  * @ClassName: MyShiroRealm
  * @Description:
- * @Author: Ni Shichao
+ * @Author: Xiao nong
  * @Version: 1.0
  */
 public class MyShiroRealm extends AuthorizingRealm {

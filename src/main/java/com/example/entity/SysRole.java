@@ -7,7 +7,7 @@ import java.util.List;
  * @Package: com.example.entity
  * @ClassName: SysRole
  * @Description:
- * @Author: Ni Shichao
+ * @Author: Xiao nong
  * @Version: 1.0
  */
 @Entity

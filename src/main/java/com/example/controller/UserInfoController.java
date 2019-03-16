@@ -14,7 +14,7 @@ import java.util.Map;
  * @Package: com.example.controller
  * @ClassName: UserInfoController
  * @Description:
- * @Author: Ni Shichao
+ * @Author: Xiao nong
  * @Version: 1.0
  */
 @Controller

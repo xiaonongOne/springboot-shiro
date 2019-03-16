@@ -10,7 +10,7 @@ import java.util.Optional;
  * @Package: com.example.service
  * @ClassName: UserInfoService
  * @Description:
- * @Author: Ni Shichao
+ * @Author: Xiao nong
  * @Version: 1.0
  */
 public interface UserInfoService {

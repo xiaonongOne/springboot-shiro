@@ -14,7 +14,7 @@ import java.util.Map;
  * @Package: com.example.springbootshiro
  * @ClassName: HelloController
  * @Description:
- * @Author: Ni Shichao
+ * @Author: Xiao nong
  * @Version: 1.0
  */
 @Controller

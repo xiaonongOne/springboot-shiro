@@ -9,7 +9,7 @@ import java.util.List;
  * @Package: com.example.entity
  * @ClassName: SysPermission
  * @Description: 权限表
- * @Author: Ni Shichao
+ * @Author: Xiao nong
  * @Version: 1.0
  */
 @Entity

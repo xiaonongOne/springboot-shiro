@@ -10,7 +10,7 @@ import java.util.Optional;
  * @Package: com.example.dao
  * @ClassName: UserInfoDao
  * @Description:
- * @Author: Ni Shichao
+ * @Author: Xiao nong
  * @Version: 1.0
  */
 public interface UserInfoDao extends CrudRepository<UserInfo,Integer> {
